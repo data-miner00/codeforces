@@ -1,3 +1,4 @@
+#include "solution158A.h"
 #include <iostream>
 
 void setup() {

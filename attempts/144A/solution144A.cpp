@@ -19,5 +19,9 @@ void setup() {
             minindex = i;
         }
     }
+    // push to right for 1 unit
+    if (maxindex >= minindex) {
+        minindex++;
+    }
     std::cout << maxindex + ((n - 1) - minindex);
 }

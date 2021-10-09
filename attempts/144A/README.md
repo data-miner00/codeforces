@@ -45,7 +45,7 @@ Print the only integer — the minimum number of seconds the colonel will need t
 ```
 
 **Output:**
-`11`
+`10`
 
 ### Note
 

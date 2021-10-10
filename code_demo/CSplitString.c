@@ -13,3 +13,5 @@ int main() {
     }
     return 0;
 }
+
+// Reference: https://www.codespeedy.com/multiple-ways-to-split-a-string-in-cpp/

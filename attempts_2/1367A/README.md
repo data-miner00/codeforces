@@ -51,4 +51,12 @@ bcdaf
 zzzzzz
 ```
 
+### Note
+
+The first test case is explained in the statement.
+
+In the second test case, Bob came up with the string a="ac", the string a has a length 2, so the string b is equal to the string a.
+
+In the third test case, Bob came up with the string a="bcdaf", substrings of length 2 of string a are: "bc", "cd", "da", "af", so the string b="bccddaaf".
+
 [Link](https://codeforces.com/problemset/problem/1367/A)

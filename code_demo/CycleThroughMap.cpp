@@ -34,3 +34,26 @@ int main() {
 
     return 0;
 }
+
+// Optimized ver
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+
+void output(const auto& table)
+{
+   for (auto const & [k, v] : table)
+   {
+        std::cout << "Key: " << k << " Value: " << v << std::endl;
+   }
+}
+
+int main() {
+    std::unordered_map<string, int> mydata = {
+        {"one", 1},
+        {"two", 2},
+        {"three", 3}
+    };
+    output(mydata);
+    return 0;
+}

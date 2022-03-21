@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
-using namespace std;
+#define ll          long long
+#define ull         unsigned long long
+#define ar          array
 
-#define ll long long
-#define ar array
+using namespace std;
 
 void solve() {
     // Logic here

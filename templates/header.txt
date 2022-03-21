@@ -1,0 +1,11 @@
+/**
+ *    Author            : Shaun Chong 
+ *    Created           : March 21, 2022 4:57 PM
+ *    Problem Name      : A. Required Remainder
+ *    Problem Limit     : 1000 ms , 256 MB
+ *    Problem Url       : https://codeforces.com/contest/1374/problem/A
+ *    Solution Compiler : GNU G++17 (64)
+ *    Solution Status   : Accepted
+ *    Solution Time     : 0 ms
+ *    Solution Space    : 0 KB
+**/

@@ -1,4 +1,4 @@
-# XXXA:
+# XXXA: (title here)
 
 ## Constraints and Conditions
 
@@ -9,18 +9,20 @@
 
 ## Instructions
 
-### Input
+## Input
 
-### Output
+## Output
 
-### Examples
+## Examples
+
+**Input:**
+
+**Output:**
 
 **Input:**
 
 **Output:**
 
-**Input:**
-
-**Output:**
+## Note
 
 [Link]()

@@ -332,3 +332,10 @@ void necessary_heap_allocations() {
 std::shared_ptr<int> max(std::shared_ptr<int> a, std::shared_ptr<int> b) {
     return *a > *b ? a : b;
 }
+
+void swap_two_variables_without_third() {
+    int a = 1;
+    int b = 2;
+
+    a ^= b ^= a ^= b;
+}

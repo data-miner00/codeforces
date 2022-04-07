@@ -4,6 +4,7 @@
  *    Problem Name      : A. Required Remainder
  *    Problem Limit     : 1000 ms , 256 MB
  *    Problem Url       : https://codeforces.com/contest/1374/problem/A
+ *    Submission Url    : https://codeforces.com/problemset/submission/1433/152948254
  *    Solution Compiler : GNU G++17 (64)
  *    Solution Status   : Accepted
  *    Solution Time     : 0 ms

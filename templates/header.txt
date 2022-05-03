@@ -1,3 +1,4 @@
+// Codeforces
 /**
  *    Author            : Shaun Chong 
  *    Created           : March 21, 2022 4:57 PM
@@ -9,4 +10,17 @@
  *    Solution Status   : Accepted
  *    Solution Time     : 0 ms
  *    Solution Space    : 0 KB
+**/
+
+// Leetcode
+/**
+ *    Author            : Shaun Chong 
+ *    Created           : May 3, 2022 9:59 PM
+ *    Problem Name      : 1. Two Sum
+ *    Problem Url       : https://leetcode.com/problems/two-sum/
+ *    Submission Url    : https://leetcode.com/submissions/detail/692330555/
+ *    Solution Language : C++
+ *    Solution Status   : Accepted
+ *    Solution Time     : 528 ms
+ *    Solution Space    : 10.2 MB
 **/

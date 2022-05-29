@@ -4,11 +4,11 @@
  *    Problem Name      : B. Card Trick
  *    Problem Limit     : 2000 ms , 256 MB
  *    Problem Url       : https://codeforces.com/problemset/problem/1681/B
- *    Submission Url    : https://codeforces.com/problemset/submission/1681/158533506
+ *    Submission Url    : https://codeforces.com/problemset/submission/1681/158764691
  *    Solution Compiler : GNU G++17 (64)
- *    Solution Status   : Runtime error on test 3
- *    Solution Time     : 61 ms
- *    Solution Space    : 780 KB
+ *    Solution Status   : Accepted
+ *    Solution Time     : 62 ms
+ *    Solution Space    : 784 KB
 **/
 
 #include <bits/stdc++.h>
@@ -19,7 +19,8 @@
 using namespace std;
 
 void solve() {
-    int n, ptr = 0;
+    int n;
+    ull ptr = 0;
     cin >> n;
     int a[n];
     for (int i = 0; i < n; i++) {
